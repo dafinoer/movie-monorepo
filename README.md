@@ -1,6 +1,10 @@
-# majootestcase
+# movie-monorepo
 
-A new Flutter project.
+A new Flutter project. with the monorepo file structure.
+
+# Run
+this project use Flutter SDK `2.10.0`, prefer using `fvm` for running this project.
+`fvm flutter run lib/main.dart`
 
 ## Getting Started
 
